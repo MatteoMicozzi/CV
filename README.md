@@ -1,67 +1,95 @@
 # Matteo Micozzi
+
 ### Contact
 [eMail](mailto:micozzimatteo@yahoo.it?subject=[GitHub]) &emsp; [LinkedIn](https://www.linkedin.com/in/matteo-micozzi-31947873/)
-### Personal Profile
 
-I am a Full Stack Developer thanks to an intense course provided by Makers Academy. As a recent graduate, I learnt and worked on new technologies with no prior experience, which at times was challenging. Despite this, I was also able to apply my skills from my previous career to tech, such as communication, problem solving and teamwork. In just two weeks, along with my team, I built GrowUp an incredible and interactive tasks manager ios app in React Native and you can see my [final project presentation here](https://www.youtube.com/watch?v=YatQ7l54Xjc).  
-For the last few months I’ve been taking on a personal project, an highly responsive fantastic [arcade game](https://matteo-games.web.app) (web based) that I developed in javascript. It has been great to learn more about front end technologies and deploying with Firebase. Although I’m a teamplayer, this solo project was a great experience to overcome challenges when you have no one around to ask. I am currently seeking Junior positions which will allow me to further improve my technical skills with high quality standards.
+### About Me
+While most recently I’ve been crafting unique cocktails as a mixologist and supervisor, my career has taken me full-circle back to technology. I grew up in a family-owned arcade and began coding microprocessors at school, making my first website in 2006 and later progressing to an engineering role programming alarm systems. As an enthusiastic learner , the pandemic presented an opportunity for me to return to my first and continuing passion and I attended the coding bootcamp, Makers.
 
-### Tech Skills
+### Technologies
+* Object Oriented Design  
+* JavaScript  
+* HTML & CSS  
+* React Native  
+* Ruby on Rails	 
+* Test Driven Development  
+* PSQL  
+* Firebase  
+* Responsive Design  
+* Agile Methodology  
 
-• HTML  
-• Javascript  
-• CSS  
-• FireBase  
-• Responsive Design  
-• React-Native  
-• Ruby  
-• PSQL  
+### Technical Experience
+* **Makers Academy, Coding Bootcamp &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; Jul 2020 - Sep 2020**  
 
-
-### Soft Skills
-
-• Time management  
-• Positivity  
-• Teamwork  
-• Attention to detail  
-• Multitasking  
-• Mentorship  
-• Leadership  
-• Creativity  
-• Emotional intelligence  
-• Communication  
-• Determination  
-• Intuition  
-
-### Work Experience
-
-* **Cecconi’s Soho House & Co (Supervisor OPS Bartender) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; _OCT/2018 - JUL/2020_**  
-
-  * Serving customers at the bar, I used attention to detail and my ability to work under pressure to keep up the high standards even when busy.  
-  * When changing the cocktails menu due to the end of the season, I used creativity and intuition to deliver the right cocktail.  
-  * I was responsible for opening a bar and serving at the same time, I used time management and multitasking to be professional in any circumstances.  
-
-* **The Alchemist (Bartender) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; _NOV/2016 - OCT/2018_**  
+  Highly selective 12 weeks intensive coding bootcamp, focused on TDD, BDD, object oriented programming, software design and full stack web development with  an emphasis on self-led learning and Agile methodology.  
   
-  * During a shift at the busiest peak, I used emotional intelligence and intuition to spot stressed/anxious customers, this awareness allowed me to put them at ease.  
-  * During a masterclass for a group of customers, I used mentorship and positivity to deliver informative and fun experience.  
-  * During a nightshift at the weekend, I used communication, intuition and teamwork in order to give and receive help when working with other members of staff.  
+  **Projects:**
+    * [Space Attack](https://github.com/MatteoMicozzi/SpaceAttack) (Solo Project) [Play the game](https://matteo-games.web.app/)  
+      > A highly responsive front-end video game using JavaScript, CSS, HTML and Firebase.  
+    * [Grow Up](https://github.com/MatteoMicozzi/growup) (Team Project)									
+      > An iOS task scheduler mobile app created with React Native tested with Jest was a two week team project.
+      We project managed the work using Agile methodology including short sprints, stand-up and retros and pair programming.  
+      Watch our presentation of our app [here](https://www.youtube.com/watch?v=YatQ7l54Xjc).  
+    * [Makers BnB](https://github.com/MatteoMicozzi/makersbnb) (Team Project)									
+      > This web app was created in Ruby using RSpec and Capybara as the testing framework and PostgreSQL for the database.  
+      Our five person team used Agile methodology and pair programming to complete within a week.
 
-* **Cem Alarm Systems (Electrical Technician) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; _FEB/2008 - OCT/2016_**  
 
-  * During an alarm installation, I used my leadership and determination to coordinate the job between companies.  
-  * During an expansion of an alarm system in a luxurious italian villa, I used attention to detail and my ability to work under pressure to complete the job with high standards.  
-  * When a different colleague was joining my team, I used mentorship and leadership to update, explain and coordinate the installation/job.  
+  **Link:** 	https://matteo-games.web.app
 
-### Education 
+### Professional Experience
 
-* **Makers Academy coding bootcamp &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; _JUL/2020 - SEP/2020_**  
-Highly selective 12 weeks intensive coding bootcamp, focused on TDD, BDD, object oriented programming, software design and full stack web development, with regular pair programming sessions in an agile way.  
+* **Supervisor & Bartender, Cecconi’s Soho House & Co &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; Oct 2018 - Jul 2020**  
 
-**Projects:**  (From the most recent)
-  * I learned how to build and deploy a highly responsive front end video game with Javascript, CSS, HTML and Firebase in a solo project. Here the [Video Game](https://matteo-games.web.app) and the [Project](https://github.com/MatteoMicozzi/SpaceAttack).
-  * I learned React-Native in the 2 weeks of the final project and it was great to apply all the soft skills that I developed during my journey, including time management, that was vital to meet the deadline. Here the Final Project [GrowUp](https://github.com/MatteoMicozzi/growup) and [Presentation](https://www.youtube.com/watch?v=YatQ7l54Xjc).  
-  * I learned how to work with a group in an AGILE way, applying teamwork, adaptability, communication, mentorship and emotional intelligence with the Project [MakersBnB](https://github.com/MatteoMicozzi/makersbnb).   
-  * I learned Javascript in a week applying a fast learning process and intuition with the Project [Note](https://github.com/MatteoMicozzi/note_js).  
-  * I used a fast learning skill and commitment in order to learn about databases with Psql on the project [Bookmarks](https://github.com/MatteoMicozzi/bookmarks).  
-  * I learn and strengthen my knowledge of OO principales and TDD in Ruby applying attention to detail, during a solo project [AirPort](https://github.com/MatteoMicozzi/airport_challenge).  
+  * **Leadership:** _Managing team of 10 bartenders and barbacks and responsible for smooth running of the bar._
+  * **Creativity:** _Designing and developing the cocktail menu._  
+
+* **Mixologist, The Alchemist &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; Nov 2016 - Oct 2018**  
+  
+  * **Working at Pace:** _Managing orders for a full restaurant and bar, it was typical to make over 100 cocktails an hour._
+  * **Learning Fast:** _Successfully qualified as a mixologist studying for an exam with a high failure rate outside of 12 hour shifts for which I memorised over 80 cocktails._
+  * **Masterclass Facilitation:** _Coaching members of the public to mix and pour cocktails while maintaining a relaxed atmosphere._ 
+
+* **Barista & Bartender, Bars & Disco Clubs &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Sep 2015 - Sep 2016**
+
+  * **Conflict Management:** _Difficult situations can arise in a bar environment and I was able to think on my feet to diffuse conflict and maintain a relaxed and enjoyable atmosphere in the bar._
+  * **Customer Experience:** _As a Barista-Bartender I refined my ability to entertain and engage customers with friendly conversation while providing a professional service._
+
+* **Marketing & Sales, Extra Electronics &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; Dec 2014 - May 2015**  
+
+  * **Customer relations:** My emphasis on great customer service built long lasting relationships with existing customers and increased client retention.
+
+* **Pizzaiolo (Pizza Chef), Course for Costa Crociere (Cruise Ship) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;	Oct 2014 - Nov 2014**  
+
+  * **Improving English language:** The entire course was based in English language through books and speaking with additional everyday lessons.
+  * **Teamwork:** Working in a multidisciplinary kitchen team required communication and a flexible approach.
+
+* **Recruiter & Seller, Wellness / Integration Products &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;	Dec 2012 - Sep 2014**  
+
+  * **Direct Marketing:** Researched and implemented creative strategies to attract new clients and employees.
+  * **Recruitment:** Managing the full interview cycle from attraction to leading the interviews and final selection.  
+
+* **Public Relation, San Antonio Ibiza &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;	Jun 2012 - Oct 2012**  
+
+  * **Talking to big groups:** As a shy person I learned how to overcome my limits, in fact I felt comfortable talking to big groups, in a few days.
+  * **Learning new languages:** As an Italian speaker, I learned in Ibiza Spanish and English while working with british tourists and colleagues.
+
+* **Electrical Technician, Cem Alarm Systems &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	Feb 2008 - May 2012**  
+
+  * **Client-Centred:** Serving clients who had often been burgled required high levels of EQ to sensitively install home security systems while remaining empathic towards often vulnerable customers.
+  * **Attention To Detail:** Trusted to manage highly technical bank installations and properties of high net worth clients due to my reputation as a precise and meticulous engineer and perfect record of satisfied customers.
+  * **Technical Problem Solving:** Installing highly sensitive and complex sensor systems required deep understanding of electronic engineering and curiosity in new and emerging technologies.
+  * **Team communication:** New builds and renovations required frequent communication with many teams of construction professionals, the ability to build and maintain close working relationships and communicate information effectively.
+
+* **Marketing, Odisseo Import-Export (Family Business) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	Feb 2007 - Jan 2008**  
+
+  * **First website:** I built my first website by helping my family business and produced print marketing materials.
+
+* **After High School work, Virtual Games (Arcade Games Family Business) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	2001 - 2006**
+
+### Education
+* **Electronics Expert, Electronics & Telecommunications (High School Diploma) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;	2001 - 2006**  
+
+  * IPSIA F. Corridoni
+
+
